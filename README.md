@@ -1,5 +1,4 @@
-# 10-jul-23-githubstartere
-10-jul-23-githubstartere created by GitHub Classroom
+
 Welcome to my BMI Calculator.
 
 Untuk komputasi BMi, silahkan ketik jenis kelaminan, berat badan, usia dan tinggi.
