@@ -1,0 +1,162 @@
+.h1{text-align: center;}
+
+.h3{text-align: center;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #289df6;
+    box-shadow: 0 0 40px 0 #ddd;
+    width: 1000px;
+    height:min-content;
+    box-align:"center"}
+
+.body{background-color: aliceblue;
+    text-align:justify;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #289df6;
+    box-shadow: 0 0 40px 0 #ddd;
+    width: 500px;
+    height:min-content;}
+
+.form{background-color:#DCDCDC; 
+  text-align: center;
+  box-sizing: border-box;
+  display: block;
+  border: solid 1px #289df6;
+  box-shadow: 0 0 40px 0 #ddd;
+  width: 500px;
+  height:min-content;
+  right: 500px;}
+
+.Male{flex-direction: row;
+    text-align: center;
+    font-size: larger;
+     font-weight: bold}
+
+.Female{flex-direction: row;
+        text-align: center;
+        font-size: larger;
+         font-weight: bold}
+
+
+.BB{flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+    row-gap: 1em;}
+
+.Usia{flex-direction: column;
+      text-align:center;
+      font-weight: bold;
+      row-gap: 1em;}
+
+.Tinggi {flex-direction: column;
+         text-align: center;
+         font-weight: bold;
+         row-gap: 1em;}
+
+
+.KG {
+    width: 85%;
+    border:2px solid=#aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline:none;
+    padding: 8px;
+    box-sizing:border-box;
+    text-align: center;
+    row-gap: 1em;}
+
+
+.Age{ 
+     width: 85%;
+     border:2px solid=#aaa;
+     border-radius: 4px;
+     margin: 8px 0;
+     outline:none;
+     padding: 8px;
+     box-sizing:border-box;
+     text-align: center;
+     row-gap: 1em;}
+
+
+.CM{
+        width: 85%;
+        border:2px solid=#aaa;
+        border-radius: 4px;
+        margin: 8px 0;
+        outline:none;
+        padding: 8px;
+        box-sizing:border-box;
+        text-align: center;
+        row-gap: 1em;}
+    
+
+.BMI{background-color: deepskyblue;
+    color: white;
+    width: 100px;
+    border:2px;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline:none;
+    padding: 8px;
+    box-sizing:border-box;
+    text-align: center;}
+
+.reset{background-color:white;
+        color: black;
+        width: 75px;
+        border:2px;
+        border-radius: 4px;
+        margin: 8px 0;
+        outline: black;
+        padding: 8px;
+        box-sizing:border-box;
+        text-align: center;}
+
+.result{background-color:#DCDCDC; 
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #289df6;
+    box-shadow: 0 0 40px 0 #ddd;
+    width: 500px;
+    height:min-content}
+
+.p{font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;}
+
+.Des{word-spacing: normal;}
+
+
+.indicator{background-color:yellowgreen; 
+    text-align: left;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #289df6;
+    box-shadow: 0 0 40px 0 #ddd;
+    width: 500px;
+    height:min-content;
+    align-self: right;
+    box-align: center;
+    font-size: larger;}
+
+.benefits{background-color:#DCDCDC;
+    text-align:left;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #289df6;
+    box-shadow: 0 0 40px 0 #ddd;
+    width: 500px;
+    height:500px;
+    flex-direction:row;
+    box-align: center;
+    row-gap: 1em;
+    position: absolute;
+    margin-top: 10%;}
+
+.Note{text-align: justify;
+    flex-direction:row;
+    box-align: center;
+    row-gap: 1em;
+    font-style: normal;
+     font-weight:bold;}
