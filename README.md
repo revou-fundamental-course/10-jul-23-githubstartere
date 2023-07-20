@@ -1,7 +1,7 @@
 
 Welcome to my BMI Calculator.
 
-Untuk komputasi BMi, silahkan ketik jenis kelaminan, berat badan, usia dan tinggi.
+Untuk komputasi BMI, silahkan ketik jenis kelaminan, berat badan, usia dan tinggi.
 
 Setelah dapat hasilnya, maka nomor BMI tersebut akan kasih hasil nomor dan indikator nomor tersebut.
 
